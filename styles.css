@@ -279,6 +279,9 @@ nav ul li a:hover{
     align-items: center;
 }
 @media screen and (max-width:992px){
+    .navlinks{
+        display: none;
+    }
     
      .hero{
         flex-direction: column;
